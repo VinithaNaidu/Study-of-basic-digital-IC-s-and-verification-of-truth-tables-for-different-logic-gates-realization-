@@ -78,8 +78,8 @@ endmodule
 
 ```
 
-*/
-Output:
+
+### Output:
 ### RTL
 ![Screenshot_20230330_063531](https://user-images.githubusercontent.com/121166004/228845288-baba7a16-812f-4c28-b9ed-7474c4709c8b.png)
 
